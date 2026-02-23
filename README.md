@@ -31,7 +31,7 @@ http://localhost:5173/
 1. Docker run
 
 ```bash
-docker compose run --rm app "[YOUR-USE_LIBRARY]"
+docker compose run --rm app "[YOUR-USE-LIBRARY]"
 ```
 
 example
